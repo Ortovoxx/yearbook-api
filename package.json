@@ -1,0 +1,14 @@
+{
+  "name": "yearbook-api",
+  "version": "1.0.0",
+  "description": "Automating yearbook.com",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "form-data": "^4.0.0"
+  }
+}
