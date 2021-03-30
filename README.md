@@ -5,7 +5,7 @@ This is a reverse engineered bot client for yearbook.com
 
 **Use at your own risk**
 
-1. Put your PHPSESSID and token into config.json
+1. Put your PHPSESSID and token into example.config.json and rename to config.json
 
 2. Get your user id
 
